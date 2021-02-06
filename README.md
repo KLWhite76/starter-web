@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 
 Used to learn Git.
 
@@ -10,10 +10,10 @@ Used to learn Git.
 
 Sample website with plenty of files for demos
 
-##Deployment
+## Deployment
 
 Following the directions of the course
 
-##How to contribute
+## How to contribute
 
 Give me coins!
