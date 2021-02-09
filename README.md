@@ -17,3 +17,6 @@ This can be deployed to any web server, or local file system.
 ## How to contribute
 
 Give me coins!
+
+### Copyright
+2021 Git.Training.
