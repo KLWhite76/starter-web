@@ -8,11 +8,11 @@ Used to learn Git.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As mentioned earlier the purpose is to show how git and Github works.  This should be used for the Git complete Udemy course.
 
 ## Deployment
 
-Following the directions of the course
+This can be deployed to any web server, or local file system.
 
 ## How to contribute
 
