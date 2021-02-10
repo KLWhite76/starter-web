@@ -16,7 +16,7 @@ This can be deployed to any web server, or local file system.
 
 ## How to contribute
 
-Give me coins!
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 2021 Git.Training.
